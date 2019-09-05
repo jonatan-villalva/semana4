@@ -4,7 +4,7 @@
 
 <h2>HTML Forms</h2>
 
-<form action="/action_page.php">
+<form action="action_page.php">
   First name:<br>
   <input type="text" name="nombre" value="Jonatan">
   <br>
